@@ -1,0 +1,722 @@
+1 POCO F6 pro
+2 Honor Magic 6 lite
+3 Motorola edge 50 fusion
+4 Xiaomi note 13 pro
+5 Xiaomi note 13 pro plus
+6 Xiaomi note 13 pro plus
+7 Honor Magic 6 lite
+8 Xiaomi note 13 pro plus
+9 Xiaomi note 13 pro
+10 Motorola edge 50 fusion
+11 Xiaomi note 13 pro
+12 OPPO reno 11
+13 OPPO reno 11
+14 OPPO reno 11
+15 Nothing 2A
+16 OPPO reno 11
+17 Nothing 2A
+18 Xiaomi note 13 pro plus
+19 Samsung A54
+20 OPPO reno 11
+21 Xiaomi 12 Pro
+22 OPPO reno 11
+23 Iphone 15 Pro Max
+24 OPPO reno 11
+25 Redmagic 9 Pro
+26 Google Pixel 8A
+27 Samsung A35
+28 Xiaomi note 13 pro plus
+29 Xiaomi 12 pro plus
+30 Xiaomi note 13 Pro
+31 Huawei Pura 70
+32 POCO F6 pro
+33 Samsung note 20 ultra
+34 Motorola edge 50 ultra
+35 Realme 12 proplus
+36 Infinix note 40 pro
+37 Xiaomi 13T
+38 Nothing 2A
+39 Google Pixel 8A
+40 Nothing 2A
+41 Xiaomi 13T pro
+42 Honor Magic 5 lite
+43 Xiaomi 13T pro
+44 Xiaomi 13T pro
+45 Iphone 15 Plus
+46 Xiaomi 13T pro
+47 Iphone 15
+48 Honor X6
+49 Samsung S23 Ultra
+50 Samsung S24 Ultra
+51 Xiaomi note 13 Pro
+52 Samsung S23 plus
+53 Nubia z60 Ultra
+54 Nothin 2A
+55 Iphone 15
+56 POCO X6 pro
+57 Honor 90
+58 Iphone 15 plus
+59 Iphone 15
+60 Iphone 14 plus
+61 Iphone 13 pro max
+62 POCO X6 pro
+63 Nothing 2A
+64 Iphone 13 pro
+65 Iphone 15
+66 Iphone 15
+67 Iphone 15
+68 Iphone 14 pro
+69 Iphone 14 pro max
+70 Nothing 2A
+71 Realme GT3
+72 Cubot P80
+73 Iphone 15 plus
+74 Xiaomi note 13 pro
+75 Infinix note 40 pro	
+76 POCO X6 pro
+77 Xiaomi note 13 pro
+78 Infinix note 40 pro
+79 Xiaomi note 13 pro
+80 Infinix GT 20 pro
+81 Xiaomi note 13 pro plus
+82 POCO X6 pro
+83 Infinix note 40 pro
+84 Infinix note 40 pro
+85 Samsung A15
+86 Infinix note 40 pro
+87 Xiaomi note 13
+88 Samsung A35
+89 Infinix note 40
+90 Xiaomi note 13 pro
+91 Samsung S23 ultra
+92 Infinix note 40 pro
+93 Infinix zero 40
+94 Xiaomi 13C
+95 Iphone 12
+96 Samsung A15
+97 Red magic 9 pro
+98 Infinix note 40 pro
+99 Tecno Camon 20 pro
+100 Infinix note 40 pro
+101 Xiaomi note 13
+102 Iphone 15
+103 Infinix note 40
+104 Samsung S23 fe
+105 Infinix note 40 pro
+106 Samsuns S21
+107 Infinix zero 30
+108 Tecno spark 20 pro
+109 Xiaomi note 13 pro
+110 Iphone 15 pro
+111 Samsung S24 ultra
+112 Samsung note 10 plus
+113 Honor 90 GT
+114 Realme 12 pro plus
+115 Samsung A15
+116 Xiaomi note 13
+117 Tecno 30 pro
+118 Infinix note 40 pro
+119 Samsung A15
+120 Tecno spark 20 pro plus
+121 Camon 30
+122 Infinix note 40 pro
+123 Samsung A15
+124 Xiaomi note 13 
+125 Tecno pova 5 pro
+126 Samsung S21 ultra
+127 Xiaomi 13C
+128 Infinix smart 7
+129 Honor magic 6 lite
+130 Tecno pova 5 pro
+131 Samsung A15
+132 Honor X6A
+133 Infinix note 20i
+134 Infinix note 40 pro
+135 Tecno spark 20 pro plus
+136 POCO X6 pro
+137 Tecno spark 20
+138 POCO F6 pro
+139 POCO X6 pro
+140 Honor X6a
+141 POCO F6
+142 POCO X5 pro
+143 Samsung A25
+144 Realme 12 pro plus
+145 Samsung A15
+146 One plus Ace 3
+147 Honor X6a
+148 Samsung A35
+149 Tecno camon 20 pro
+150 Samsung A15
+151 Xiaomi 13C
+152 Honor X6a 
+153 Samsung A15
+154 Samsung A54
+155 POCO f5 pro
+156 Infinix note 30 pro
+157 Xiaomi note 12
+158 Honor 90 lite
+159 Samsung S23 fe
+160 POCO X6 pro
+161 Huawei P60 pro
+162 Samsung A14
+163 Samsung S23 ultra
+164 Samsung S24 ultra
+165 Honor magic 5 lite 
+166 Honor X7b
+167 Samsung A54
+168 Samsung A34
+169 Honor 90 
+170 Tecno pova 5
+171 Tecno pova 5
+172 Samsung S23 fe
+173 POCO X6 pro
+174 Iphone 13
+175 Iphone 15
+176 Xiaomi note 11
+177 POCO X6 pro
+178 POCO X6 pro
+179 Iphone 13
+180 Xiaomi K40
+181 POCO F5 pro
+182 Xiaomi note 12 pro 
+183 Samsung A54
+184 OPPO reno 7
+185 Cubot p80
+186 POCO F5
+187 POCO X5 pro
+188 Motorola Edge 40 neo
+189 Samsung S21 fe
+190 Realme 12 pro plus
+191 Xiaomi 13T
+192 POCO X6 pro
+193 Xiaomi note 13 pro
+194 Xiaomi note 13 pro plus
+195 Xiaomi note 13 pro
+196 Realme 12 pro plus
+197 POCO X6 pro
+198 Nothing 2A
+199 Xiaomi note 13 pro
+200 Xiaomi note 12
+201 Nothing 2A
+202 Xiaomi note 13 pro plus
+203 Xiaomi note 13 pro plus
+204 Xiaomi note 13 pro 
+205 Xiaomi 13T
+206 POCO X6 pro
+207 POCO F6
+208 POCO F5 pro
+209 POCO X6 pro
+210 Oneplus Nord 3
+211 POCO X6 pro
+212 Xiaomi note 13 pro plus
+213 Xiaomi 13T
+214 POCO X6 pro
+215 POCO X3 pro
+216 POCO X6 pro
+217 Xiaomi 13T pro
+218 Iphone 14 pro max
+219 Honor 90
+220 POCO F5 pro
+221 Infinix note 40 pro
+222 POCO F5 pro
+223 Samsung S22 ultra
+224 POCO F5 pro
+225 Samsung S21 ultra
+226 Iphone 14 pro
+227 Realme c21
+228 POCO X6 pro
+229 POCO X6 pro
+230 Realme 12 pro plus
+231 Realme 12 pro plus
+232 Realme 12 pro plus
+233 POCO X6 pro
+234 Realme 12 pro plus
+235 Xiaomi note 13 pro
+236 Realme 12 pro plus
+237 Xiaomi note 13 pro 
+238 Realme 11 pro plus
+239 Samsung S21 ultra
+240 POCO X6 pro 
+241 Realme 12 pro plus
+242 Xiaomi note 13 pro plus
+243 Xiaomi note 13 pro
+244 Xiaomi note 13 pro
+245 Infinity note 40 pro
+246 POCO F6 pro
+247 Samsung S21 fe
+248 Google pixel 7 pro
+249 Samsung S21 ultra
+250 OPPO reno 11 
+251 POCO X6 pro
+252 Samsung S21 ultra
+253 Xiaomi note 13 pro
+254 Axon 50 lite
+255 Xiaomi note 13 pro
+256 POCO X6 pro
+257 POCO X6 pro
+258 POCO X6 pro
+259 Xiaomi note 12
+260 Xiaomi note 13 
+261 Tecno spark 20 pro
+262 POCO X6 pro
+263 Samsung A21s
+264 Samsung S23 
+265 ZTE blade a54
+266 Motorola G82
+267 Tecno pova 5 pro
+268 Samsung S20 fe
+269 POCO F5
+270 Xiaomi 13T
+271 Tecno spark 20
+272 POCO F5 
+273 POCO F3
+274 Oneplus 10t
+275 Honor magic 5 lite
+276 POCO F6
+277 Tecno spark 20 pro plus
+278 Motorola g53
+279 Honor magic 6 lite
+280 Iphone 15 pro max
+281 Samsung s23 ultra
+282 Samsung s24 ultra
+283 Google pixel 8 pro
+284 Oneplus 12
+285 Oneplus 11
+286 Honor magic 5 pro
+287 Samsung s21 ultra
+288 Samsung A55
+289 Samsung s23 ultra
+290 Samsung s24 ultra
+291 Google pixel 8 pro
+292 Huawei P60 pro
+293 Samsung s23 ultra
+294 Samsung s23 ultra
+295 Redmagic 9 pro
+296 Iphone 15 plus
+297 Google pixel 8 pro
+298 Iphone 15 plus
+299 Iphone 15 pro
+300 Realme GT neo 5
+301 Iphone xr
+302 Oneplus 11
+303 Samsung s24 ultra
+304 Iphone 15
+305 Samsung s23 ultra
+306 Iphone 15 pro
+307 Iphone 15 plus
+308 Honor 90
+309 Samsung s21 fe
+310 Iphone 15 plus
+311 Iphone 14 pro max
+312 Samsung s21 ultra
+313 Samsung A55
+314 Google pixel 8 pro
+315 Samsung s21 plus
+316 Iphone 15 plus
+317 Iphone 14 pro max
+318 Iphone 13 pro max
+319 Google pixel 8 prop
+320 Nothing A2
+321 Redmagic 9 pro
+322 Iphone 15 pro max
+323 Iphone 15 plus
+324 Samsung s23 ultra
+325 Oneplus 12
+326 OPPO A79
+327 Samsung s24 ultra
+328 Xiaomi 12
+329 Xiaomi 13c
+330 OPPO A79
+331 Xiaomi note 10s
+332 OPPO A53
+333 OPPO A58
+334 VIVO V30 lite
+335 Realme note 50
+336 Xiaomi 10c
+337 Xiaomi note 8
+338 Motorola G60
+339 Xiaomi 13c
+340 Motorola G54
+341 Xiaomi note 13 pro plus
+342 Xiaomi 13c
+343 Xiaomi 13 pro
+344 Samsung s24
+345 Xiaomi 10
+346 Redmagic 9
+347 Xiaomi 13c
+348 Nubia z60 ultra
+349 Samsung s24 ultra
+350 Redmagic 9 pro
+351 Googel pixel 8 pro
+352 Tecno pova 6
+353 Samsung A02
+354 Samsung s24
+355 Nubia z60 ultra
+356 Redmagic 9 pro
+357 Iqoo neo 9
+358 Iqoo 12
+359 Iphone 15 pro max
+360 Samsung s24 ultra
+361 Huawei pura 70 ultra
+362 Xiaomi 14 ultra
+363 Nubia z60 ultra
+364 Xiaomi k70 pro
+365 Honor 200
+366 Vivo x100s pro
+367 Redmagic 9 pro
+368 Samsung s24 ultra
+369 Honor magic 6 pro
+370 Samsung j6 neo
+371 Iphone 15 pro max
+372 Xiaomi k70
+373 Nubia z60 ultra
+374 Xiaomi 14 
+375 iphone 15
+376 Nothing 2A
+377 Galaxy A55
+378 POCO f6 
+379 Iphone 12 pro max
+380 Xiaomi note 10 pro
+381 Google pixel 6 pro
+382 POCO f5 pro
+383 Xiaomi note 13 pro plus
+384 Nothing A
+385 Oneplus 10t
+386 Oneplus 12r
+387 Samsung S23
+388 POCO F6 pro
+389 Xiaomi note 12
+390 POCO m6 pro
+391 POCO x6 
+392 Samsung s23
+393 Google pixel 8
+394 Oneplus 10t
+395 Google pixel 7A
+396 Xiaomi pad 6 pro
+397 Samsung s21 ultra
+398 Samsung s10 plus
+399 Nothin 2A
+400 POCO x6 pro
+401 Realme gt2
+402 Samsung s21 ultra
+403 Oneplus Ace 3
+404 POCO f6 pro
+405 Samsung s21 ultra
+406 Xiaomi 12 pro
+407 POCO x6 pro
+408 Samsung note 20 ultra
+409 Nothing 2A
+410 Nothing 2A
+411 Nothing 2A
+412 Samsung A55
+413 Xiaomi note 13 pro plus 
+414 POCO F6 pro
+415 POCO X6 pro
+416 Xiaomi note 13 pro plus 
+417 POCO F6 pro
+418 Xiaomi 13T
+419 Xiaomi note 13 pro plus 
+420 Honor 90
+421 Xiaomi note 13 pro plus 
+422 Samsung s21 ultra
+423 POCO x6 pro
+424 Xiaomi note 12s   
+425 Xiaomi note 13 pro plus 
+426 Samsung s23 ultra
+427 Xiaomi note 12 pro plus
+428 Xiaomi 13T pro
+429 Samsung note 10 plus
+430 Xiaomi note 13 pro
+431 Xiaomi note 13 pro plus 
+432 Xiaomi note 13 pro plus 
+433 Xiaomi note 13 pro plus 
+434 Xiaomi note 13
+435 Samsung A54
+436 Xiaomi 13 pro
+437 Xiaomi note 13 pro plus 
+438 Iphone 13
+439 Xiaomi note 13
+440 Realme 12 pro plus
+441 Xiaomi 13T
+442 POCO X6 pro
+443 Xiaomi note 13 pro plus 
+444 Xiaomi note 13 pro 
+445 Xiaomi note 13 pro 
+446 Realme 12 pro plus
+447 Nothing 2A
+448 Xiaomi 12
+449 Xiaomi note 13 pro 
+450 Xiaomi note 13 pro plus 
+451 Nothing 2A
+452 Xiaomi note 13 pro plus 
+453 POCO F5 pro
+454 POCO x6 pro
+455 Xiaomi note 13 pro plus 
+456 Xiaomi 13T
+457 POCO x3 pro
+458 POCO x6 pro
+459 POCO x6 pro
+460 Iphone 14 pro max
+461 Xiaomi 13T pro
+462 POCO F5 
+463 Honor 90
+464 Infinix note 40 pro
+465 POCO f5
+466 Samsung s22 ultra
+467 POCO x6 pro
+468 POCO f5 pro
+469 Samsung S21 ultra
+470 Iphone 14 pro
+471 Realme c21
+472 POCO x6 pro
+473 POCO x6 pro
+474 Realme 12 pro plus
+475 Samsung A34
+476 Xiaomi note 13 pro 
+477 POCO x6 pro
+478 Realme 12 pro plus
+479 Realme 12 pro plus
+480 Realme 12 pro plus
+481 Infinix smart 8
+482 Tecno spark 20
+483 Redmi 13 c
+484 Redmi 13 c
+485 Infinix smart 8
+486 Vivo y17s
+487 Vivo y17s
+488 Infinix smart 8
+489 Tecno spark 20
+490 Vivo y17s
+491 Realme note 50
+492 POCO m5
+493 Vivo y17s
+494 OPPO A17
+495 Vivo y17s
+496 Infinix smart 8
+497 OPPO A18
+498 Xiaomi 13c
+499 Tecno spark 20
+500 Infinix smart 8
+501 Tecno spark 20
+502 Vivo y17s
+503 Tecno spark 20 pro
+504 Infinix smart 8
+505 Realme C15
+506 Infinix smart 8
+507 Xiaomi 12
+508 Samsung A05
+509 OPPO A18
+510 Xiaomi 13c
+511 Samsung A05
+512 Infinix smart 8
+513 Xiaomi 13c
+514 Vivo y17s
+515 Vivo y17s
+516 Samsung A05
+517 Vivo y17s
+518 Tecno nova 5 pro
+519 Infinix note 30 pro
+520 Realme C51
+521 Tecno spark 20
+522 Xiaomi 13c
+523 OPPO A18
+524 Xiaomi 12
+525 Xiaomi 14 ultra
+526 Honor magic 6 pro
+527 Huawei pura 70 ultra
+528 Huawei pura 70 pro
+529 Iphone 15 pro max
+530 Samsung S24 ultra
+531 Xiaomi 14 ultra
+532 Samsung S24 ultra
+533 Honor magic 6 pro
+534 Iphone 15
+535 Huawei pura 70 ultra
+536 Xiaomi 14 ultra
+537 Iphone 15 pro max
+538 Iphone 16 pro max
+539 Google pixel 8 pro
+540 Honor magic 6 pro
+541 Honor magic 6 pro
+542 Iphone 15 pro max
+543 Samsung S24 ultra
+544 Iphone 15 pro max
+545 Huawei pura 70 ultra
+546 Iphone 15 pro max
+547 Iphone 15 pro max
+548 Xiaomi 14 ultra
+549 Huawei pura 70 pro
+550 Honor Magic 6 pro
+551 Samsung S24 ultra
+552 Huawei pura 70 
+553 Samsung S24 ultra
+554 Honor Magic 6 pro
+555 Iphone 15 pro max
+556 Honor Magic 6 pro
+557 Huawei pura 70 ultra
+558 Huawei Mate 60 Pro
+559 Oppo X7 ultra
+560 Vivo X100 Pro
+561 Samsung S24 ultra
+562 Huawei pura 70 ultra
+563 Samsung s21 fe
+564 Samsung s22 fe
+565 Samsung s20
+566 Samsung s10 plus
+567 POCO X6 pro
+568 Xiaomi note 13 pro plus
+569 Samsung m35
+570 Samsung s20 ultra
+571 Samsung note 20 ultra
+572 Samusng s23 fe
+573 Iphone 13
+574 Xiaomi 11T pro
+575 Samsung s23 fe
+576 Xiaomi mi 13
+577 Xiaomi note 13 pro plus
+578 POCO X6 pro
+579 Samsung s20
+580 Samsung A90
+581 Samsung A54
+582 Realme 12 pro plus
+583 Tecno spark 20 pro plus
+584 Samsung S21 ultra
+585 Samsung A73
+586 Samsung A35
+587 Samsung s23
+588 Motorola edge 40
+589 Samsung A34
+590 Xiaomi note 13 pro plus
+591 Samsung A15
+592 Honor magic 6 lite
+593 Motorola edge 50 fusion
+594 Samsung A34
+595 Samsung S21
+596 Samsung A35
+597 Samsung A15
+598 Tecno Spark 20 pro plus
+599 Xiaomi 13c
+600 Xiaomi 13c
+601 Tecno Spark 20 pro plus
+602 Xiaomi 13c
+603 Xiaomi 13c
+604 Xiaomi 13c
+605 Infinix 40i
+606 Xiaomi 13c
+607 Xiaomi 13c
+608 Samsung A05s
+609 Xiaomi 13c
+610 Tecno spark 20 pro plus
+611 Xiaomi 13c
+612 Xiaomi 12
+613 Xiaomi 13c
+614 Xiaomi 13c
+615 Xiaomi note 13 pro
+616 Xiaomi 13c
+617 POCO F5
+618 Honor magic 5 lite
+619 Xiaomi note 13 pro
+620 Xiaomi 13c
+621 Xiaomi 13c
+622 Samsung S21 ultra
+623 Xiaomi 13c
+624 Xiaomi 13c
+625 Samsung A04s
+626 Xiaomi 13c
+627 Xiaomi note 9
+628 Infinix note 40i
+629 Xiaomi 13c
+630 Infinix note 40i
+631 Infinix note 40 pro
+632 Xiaomi 13c
+633 Xiaomi 13c
+634 Infinix note 40i
+635 Xiaomi 13c
+636 Xiaomi note 13 pro
+637 Infinix note 40 pro
+638 Tecno spark 20 pro plus
+639 Tecno spark 20 pro plus
+640 Infinix note 40 pro
+641 Honor magic 5 lite
+642 Infinix note 40 pro
+643 Honor magic 5 lite
+644 Motorola Edge 40 neo
+645 Infinix note 40 pro
+646 Realme C67
+647 Infinix note 40 pro
+648 Infinix note 40 pro
+649 Infinix note 40 pro
+650 Infinix note 40 pro
+651 Xiaomi note 13 pro 
+652 OPPO A38
+653 Infinix note 40 pro
+654 Infinix note 30
+655 Infinix zero 40 
+656 Infinix note 40 pro
+657 Infinix note 40 pro
+658 Xiaomi note 13 pro plus
+659 Infinix note 40 pro
+660 POCO M6 pro
+661 Tecno spark 20 pro
+662 Infinix note 40 pro
+663 Infinix note 40 pro
+664 Infinix note 40 pro
+665 Samsung A25
+666 Huawei mate 60 pro
+667 VIVO X100 pro
+668 Huawei pura 70 ultra
+669 Samsung s24 ultra
+670 Xiaomi 14 ultra
+671 Huawei Pura 60 pro
+672 Huawei Pura 70 pro
+673 Xiaomi note 10s
+674 Xiaomi 14 ultra
+675 Samsung s23 ultra
+676 Samsung s24 ultra
+677 Samsung s24 ultra
+678 Samsung s24
+679 Xiaomi 14 ultra
+680 Huawei pura 60 pro
+681 Huawei mate 60
+682 Iphone 13 pro 
+683 Iphone 14 plus
+684 VIVO YT 22
+685 Samsung s22
+686 Huawei mate 10 pro
+687 Huawei mate 60 
+688 Huawei mate 60
+689 Huawei pura 70 ultra
+690 Iphone 15 pro max
+691 Xiaomi mi 13 ultra 
+692 Huawei pura 70 ultra
+693 Huawei mate 60 pro
+694 Huawei P60 pro
+695 Huawei P60 pro
+696 Xiaomi 14 ultra
+697 Xiaomi 14 ultra
+698 Huawei P40 
+699 Samsung A04e 	
+700 VIVO X100 pro
+701 Nubia z60 ultra
+702 Phone 2A
+703 POCO X6 pro
+704 POCO F6 pro
+705 POCO X6 pro
+706 Xiaomi Note 13 pro
+707 POCO X6 pro
+708 Nubia z60 ultra
+709 POCO F6 pro
+710 POCO X6 pro
+711 Nubia z60 ultra
+712 Redmagic 9s pro
+713 Nubia z60 ultra
+714 POCO X3 pro
+715 Motorola Edge 40 pro
+716 Samsung s23 ultra
+717 Infinix note 40 pro 
+718 Infinix gt 20 pro
+719 Nubia z60
+720 POCO F6 pro
+721 POCO X6 pro
+
